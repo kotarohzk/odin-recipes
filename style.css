@@ -1,0 +1,39 @@
+body {
+  font-family: Monaco, "Lucida Console", monospace;
+}
+
+h1,
+h2 {
+  text-align: center;
+  background-color: #51291e;
+  color: #fff;
+}
+
+h3 {
+  background-color: #d8d8d8;
+  color: #000;
+}
+
+.recipe-index {
+  text-align: center;
+  list-style: none;
+  font-weight: 500;
+}
+
+[href] {
+  background-color: #ff5e5b;
+  padding: 0 5px;
+  color: #fff;
+}
+
+.fit {
+  width: 500px;
+  margin: 0 auto;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
